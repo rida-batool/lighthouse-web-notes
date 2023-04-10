@@ -35,4 +35,4 @@ it is testing most basic and expected flow of event through an application, from
 
 You test the core functionality of the application that it is working properly, and that the user can complete tasks without encountering any unexpected issues.
 
-However, it is important to note that Happy Path Testing is not sufficient on its own. It is still necessary to test for edge cases, error conditions, and other scenarios that may cause the application to behave unexpectedly
+However, it is important to note that Happy Path Testing is not sufficient on its own. It is still necessary to test for edge cases, error conditions, and other scenarios that may cause the application to behave unexpectedly.
