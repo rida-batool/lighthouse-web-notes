@@ -1,5 +1,6 @@
 ## HTTP Flow
 
+
 HTTP is a request-response based protocol. A client makes a request to an HTTP server, immediately also sending a message asking for a specific resource, which the server sends down as a response. 
 
 ## HTTP Requests
