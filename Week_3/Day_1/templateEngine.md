@@ -12,4 +12,6 @@ examples of template engines : Pug, Mustache, Nunjucks, Handlebars, EJS
 
 [How To Use EJS to Template Your Node Application](https://web.compass.lighthouselabs.ca/fa2b7dce-22ae-4bc6-9a59-1a4f98d23571)
 
+[Express Routing](https://expressjs.com/en/guide/routing.html)
+
 [Create template engines](https://www.digitalocean.com/community/tutorials/how-to-use-ejs-to-template-your-node-application)
