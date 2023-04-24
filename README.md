@@ -24,5 +24,11 @@ This repository contains all of the notes taken by [Rida](https://github.com/rid
 * [Week_3](/Week_3/)
   * [Day_1](/Week_3/Day_1/)
   * [Day_2](/Week_3/Day_2/)
+  * [Day_4](/Week_3/Day_4/)
+  * [Day_5](/Week_3/Day_5/)
+  * [Weekend](/Week_3/Weekend/)
+
+* [Week_4](/Week_4/)
+  * [Day_1](/Week_4/Day_1/)
 
 
