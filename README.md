@@ -32,3 +32,9 @@ This repository contains all of the notes taken by [Rida](https://github.com/rid
   * [Day_1](/Week_4/Day_1/)
 
 
+## Front-end links
+[CSS Tips and Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+[Practice Flexbox](https://codepen.io/sadief/pen/XGXWPz)
+
+[All the CSS syntax you need](https://learnxinyminutes.com/docs/css/)
