@@ -12,3 +12,5 @@ Ajax requests are normal HTTP requests sent to a web server by some JavaScript o
  JavaScript is capable of performing Ajax requests without any code libraries; Ajax is something all major browsers support.
 
  Some JS libraries try to improve the way that Ajax is done in JavaScript. The most popular one is jQuery.
+
+ 
